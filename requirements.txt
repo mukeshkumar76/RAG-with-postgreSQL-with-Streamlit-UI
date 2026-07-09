@@ -1,0 +1,16 @@
+streamlit
+psycopg2-binary
+sqlalchemy
+pgvector
+sentence-transformers
+groq
+python-dotenv
+mcp
+pandas
+langchain
+langchain-community
+fastapi
+uvicorn
+httpx
+torchvision
+ollama
